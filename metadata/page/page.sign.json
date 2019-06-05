@@ -1,0 +1,33 @@
+{
+  "_id": "page.sign",
+  "_type": "page.form",
+  "body": "By filling in the below information, you give your consent to participate in this study.",
+  "components": [
+    {
+      "_id": "page.sign--text.auto_name__1",
+      "_type": "text",
+      "label": "What is your full name?",
+      "name": "auto_name__1"
+    },
+    {
+      "_id": "page.sign--email.auto_name__4",
+      "_type": "email",
+      "label": "What is your email address?",
+      "name": "emailaddress"
+    },
+    {
+      "_id": "page.sign--date.auto_name__2",
+      "_type": "date",
+      "label": "What is the date today?",
+      "name": "auto_name__2"
+    },
+    {
+      "_id": "page.sign--text.auto_name__3",
+      "_type": "text",
+      "label": "What is the researcher's name?",
+      "name": "auto_name__3"
+    }
+  ],
+  "heading": "Please fill in the below information",
+  "url": "sign"
+}

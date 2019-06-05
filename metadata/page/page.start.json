@@ -1,9 +1,15 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "**This is the main content section of your start page**\r\n\r\n[Edit this page](/edit) with content for your own service.\r\n\r\n## Adding more content\r\n\r\nYou can add multiple headings, links and paragraphs - all in this one content section.\r\n\r\nUse [markdown](https://www.gov.uk/guidance/how-to-publish-on-gov-uk/markdown) to format headings, bullet lists and links.",
-  "heading": "This is your start page heading",
-  "lede": "This is your start page first paragraph. You can only have one paragraph here.",
-  "steps": [],
+  "body": "The Ministry of Justice (MoJ) does regular research to find out how people use our existing services and what they need from new services.  This helps us create services that work better for government and for the public.\r\n\r\nThis research is on behalf of the Ministry of Justice and other organisations that are a part of it, including the Office of the Public Guardian (OPG), Legal Aid Agency (LAA), Criminal Injuries Compensation Authority (CICA) and Her Majesty's Prison and Probation Service (HMPPS).\r\n\r\nPlease read these statements and sign at the bottom if you agree. If you have any questions, please ask.",
+  "heading": "User Research consent form",
+  "lede": "Thank you for agreeing to participate in this research.",
+  "steps": [
+    "page.Content",
+    "page.confidentiality",
+    "page.personaldata",
+    "page.sign",
+    "page.thankyou"
+  ],
   "url": "/"
 }

@@ -1,0 +1,13 @@
+{
+  "_id": "page.personaldata",
+  "_type": "page.content",
+  "components": [
+    {
+      "_id": "page.personaldata--content",
+      "_type": "content",
+      "html": "**Personal data**\r\n\r\nSee the information sheet Protecting your personal information to understand how we will look after your personal information under the data protection legislation. If you have any questions regarding your participation in this research please contact:\r\n\r\nHead of User Research Digital & Technology\r\n\r\nMinistry of Justice,\r\n102 Petty France,\r\nLondon SW1H 9AJ"
+    }
+  ],
+  "heading": "Protecting your personal information",
+  "url": "personaldata"
+}

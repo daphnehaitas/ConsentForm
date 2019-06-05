@@ -1,0 +1,13 @@
+{
+  "_id": "page.Content",
+  "_type": "page.content",
+  "components": [
+    {
+      "_id": "page.Content--content",
+      "_type": "content",
+      "html": "**Participation is voluntary**\r\n\r\nI understand that taking part in the research is voluntary. There will be no consequences for me if I decide I don’t want to take part. I don’t need to answer any questions I’m not comfortable with. I can withdraw my consent and stop at any time.\r\n\r\n**Anonymity**\r\n\r\nI understand that after this session my name, and anything that could identify me and what I have said, will not be revealed to others inside or outside the Ministry of Justice unless legal disclosure is necessary.\r\n\r\n**Legal disclosure**\r\n\r\nI understand that the Ministry of Justice may release the research data from my session if there is evidence of wrongdoing or if required by law or by any competent authority.\r\n\r\n**Publishing findings**  \r\n\r\nI understand that the Ministry of Justice may make the findings of the research public so that anyone can use and learn from the results. The findings the Ministry of Justice makes public will not contain any of my personal data or anything that could identify me.\r\n\r\n**Storing research data**\r\n\r\nI understand that the Ministry of Justice may store the research data and extracts outside the European Economic Area (EEA)."
+    }
+  ],
+  "heading": "Collecting & storing research data",
+  "url": "Content"
+}

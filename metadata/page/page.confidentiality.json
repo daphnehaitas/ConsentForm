@@ -1,0 +1,13 @@
+{
+  "_id": "page.confidentiality",
+  "_type": "page.content",
+  "components": [
+    {
+      "_id": "page.confidentiality--content",
+      "_type": "content",
+      "html": "I understand that the ideas, designs and services I see in this research session are confidential. I will not tell anyone else about the ideas, designs or services until they are made public. I will not take away copies of any materials I use in the session."
+    }
+  ],
+  "heading": "Treating ideas, designs and services with confidentiality",
+  "url": "confidentiality"
+}
