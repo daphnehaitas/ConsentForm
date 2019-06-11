@@ -1,7 +1,7 @@
 {
   "_id": "page.checkanswers",
   "_type": "page.summary",
-  "sendBody": "By submitting this application you confirm that, to the best of your knowledge, the details you are providing are correct and that you agree to take part in the research voluntarily. \r\nYou will receive a copy of this form to the email address you have provided.",
+  "sendBody": "By submitting this application you confirm that, to the best of your knowledge, the details you are providing are correct and that you agree to take part in the research voluntarily.",
   "sendHeading": "Please send the consent form",
   "url": "checkanswers"
 }

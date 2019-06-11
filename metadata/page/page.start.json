@@ -9,7 +9,8 @@
     "page.confidentiality",
     "page.personaldata",
     "page.sign",
-    "page.checkanswers"
+    "page.checkanswers",
+    "page.exit"
   ],
   "url": "/"
 }

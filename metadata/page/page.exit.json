@@ -1,0 +1,7 @@
+{
+  "_id": "page.exit",
+  "_type": "page.exit",
+  "heading": "Thank you for filling in the consent form",
+  "lede": "You will receive a copy of this form to the email address you have provided.",
+  "url": "exit"
+}
